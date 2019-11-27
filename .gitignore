@@ -6,6 +6,6 @@
 
 # Build files
 build/*
-out/*
+NP_Assignment1_GuessNumber/out/*
 
 *.jar
